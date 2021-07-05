@@ -67,7 +67,41 @@ span{
     color: honeydew;
     background-color: salmon;
     background-image:linear-gradient(salmon,orange);
-    padding: 5px 15px;
+    padding: 10px 15px;
     border-radius: 20px;
 
+}
+.about{
+    display: flex;
+    margin-top: 50px;
+    padding: 5% 5%;
+    background-image: url(../images/shapes/7.png);
+}
+.me{
+    width: 50%;
+    
+    margin: 0 5%;
+   
+}
+.me img{
+    width: 200px;
+}
+.myself{
+    width: 50%;
+   
+    margin: 0 5%;
+   
+}
+.myself h1{
+    font-size: 60px;
+    color: gray;
+    font-family: 'Uchen', serif;
+    margin-bottom: 20px;
+
+}
+.myself p{
+    font-size: 18px;
+    color: grey;
+    font-style: italic;
+    margin-bottom: 70px;
 }
