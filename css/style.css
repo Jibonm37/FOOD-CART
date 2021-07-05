@@ -1,0 +1,73 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+header{
+    display: flex;
+    height: 150px;
+   
+    background-image: linear-gradient(pink,whitesmoke);
+}
+.heading{
+    width: 80%;
+    padding:0px 20px;
+    margin: 0px  8%;
+   
+}
+.heading h1{
+    font-size: 70px;
+    font-weight: 900;
+    font-family: 'Uchen', serif;
+    color: salmon;
+
+}
+.spoon{
+    width: 20%;
+    padding: 20px;
+    margin: 20px  8%;
+    color: yellowgreen;
+
+   
+}
+.front-side{
+    display: flex;
+    margin-top: 20px;
+    background-color: indigo;
+ 
+}
+.half-width{
+    width: 50%;
+    padding: 2% 5%;
+    margin: 0 5%;
+   
+
+
+}
+span{
+   color: salmon;
+}
+.half-width h1{
+    color: gray;
+    font-size: 3.5rem;
+    margin-bottom: 25px;
+}
+.half-width p{
+    color: gray;
+    font-size: 20px;
+    font-style: italic;
+    margin-bottom: 50px;
+}
+.half-width img{
+    width: 100%;
+}
+.button{
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 15px;
+    color: honeydew;
+    background-color: salmon;
+    background-image:linear-gradient(salmon,orange);
+    padding: 5px 15px;
+    border-radius: 20px;
+
+}
