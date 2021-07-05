@@ -163,12 +163,12 @@ span{
 footer{
    padding-top: 1px;
     height: 125px;
-    background-image:radial-gradient(gray,black);
+   background-color: #000000;
     text-align: center;
 }
 footer h1{
     font-size: 20px;
-   
+   color: grey;
     font-family: 'Uchen', serif;
     margin-top: 25px;
     margin-bottom: 8px;
